@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MCC 05</string>
+    <string name="fetch_Location">Get Location</string>
+    <string name="location">  </string>
+</resources>
